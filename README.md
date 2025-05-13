@@ -116,7 +116,8 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Output :**
 
-![ellipsegamedevlopment](https://github.com/user-attachments/assets/51b06629-23d3-4109-91e3-f236dba53d95)
+![image](https://github.com/user-attachments/assets/da60a335-e8d7-47e1-b9a8-4e87d5f82ec8)
+
 
 
 **Result :**
